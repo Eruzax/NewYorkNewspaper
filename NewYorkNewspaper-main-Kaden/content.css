@@ -1,24 +1,32 @@
 .page {
-  width:
-  height:
+  width:100%;
+  height:100%;
 }
 
-#article_title {
-
+#article_title 
+{
+  font-family: Anton;
+  letter-spacing: 3px;
 }
 
-#intro {
-
+#intro 
+{
+  font-family: Oswald;
 }
 
-.question{
-
+.question
+{
+  font-family: Railway;
+  font-weight: bolder;
 }
 
-.answer{
-
+.answer
+{
+  font-family: Railway;
+  font-weight: lighter;
 }
 
-#block_quote {
-
+#block_quote 
+{
+  font-family: Oswald;
 }
