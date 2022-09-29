@@ -3,7 +3,7 @@
   width: 350px;
   height: 500px;
   background-color: gray;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: Roboto;
   /* finish your styling of the cover div here! */
 }
 #title 
@@ -15,14 +15,14 @@
 
 #subtitle 
 {
-  font-size: 11px;
+  font-size: 12px;
   color: cyan;
   opacity: 50%;
   margin: 0px;
-  padding-left: 100px;
+  padding-left: 110px;
 }
 
 #cover_image 
 {
-  width: 200px;
+
 }
