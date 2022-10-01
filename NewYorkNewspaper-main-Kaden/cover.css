@@ -3,17 +3,18 @@
   width: 350px;
   height: 500px;
   background-color: gray;
-  font-family: Roboto;
+  font-family: Source Code Pro;
+  font-weight: lighter;
   /* finish your styling of the cover div here! */
 }
-#title 
+#title
 {
   font-size: 50px;
   padding-top: 50px;
   margin: 5px;
 }
-
-#subtitle 
+ 
+#subtitle
 {
   font-size: 12px;
   color: cyan;
@@ -21,8 +22,8 @@
   margin: 0px;
   padding-left: 110px;
 }
-
-#cover_image 
+ 
+#cover_image
 {
   padding-top: 50px;
   width: 220px;
