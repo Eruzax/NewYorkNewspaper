@@ -1,6 +1,8 @@
 .page {
-  width: 300px;
+  width: 350px;
   height:100%;
+  background-color: #D3D0CB;
+  padding: 15px;
 }
  
 #article_title
@@ -8,29 +10,49 @@
   font-family: Anton;
   letter-spacing: 3px;
   font-size: 30px;
+  color: #461220;
 }
  
 #intro
 {
   font-family: Oswald;
-  line-height:30px
+  line-height:40px;
+  color:#8C2F39;
 }
  
 .question
 {
   font-family: Raleway;
-  font-weight: bolder;
-  font-size: 15px;
+  font-weight:bolder;
+  font-size: 13px;
+  color: #4C5760;
+  margin-bottom: 0px;
 }
  
 .answer
 {
   font-family: Raleway;
-  font-weight: normal;
+  font-weight: bold;
+  color: #4C5760;
+  padding-bottom: 0px;
+  margin-top: 0px;
+  margin-bottom: 5px;
 }
  
 #block_quote
 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 70px;
+  margin-right: 40px;
   font-family: Oswald;
+  font-size: 20px;
+  color:#8C2F39;
+  border-style: solid;
+  border-color: #4C5760;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 0;
+  border-width: thin;
+  padding-left: 5px;
 }
- 
