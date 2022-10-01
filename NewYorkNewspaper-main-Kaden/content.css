@@ -2,6 +2,7 @@
   width: 350px;
   height:100%;
   background-color: #D3D0CB;
+  background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("resources/nyc.jpg");
   padding: 15px;
 }
  
@@ -11,6 +12,7 @@
   letter-spacing: 3px;
   font-size: 30px;
   color: #461220;
+  text-shadow: #461220 1px 0 10px;
 }
  
 #intro
@@ -55,4 +57,5 @@
   border-bottom: 0;
   border-width: thin;
   padding-left: 5px;
+  box-shadow: -10px 5px 5px #8C2F39;
 }
